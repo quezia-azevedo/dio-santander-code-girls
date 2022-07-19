@@ -9,16 +9,22 @@ Utilizar CTRL + ESPAÇO para autocompletar
 Para rodar o programa: Add Configuration ou CTRL + SHIFT + F10
 Para criar construtor: ALT + INSERT -> Constructor
 Para comentar o bloco: CTRL+SHIFT+/
+Comentar por linha -> ctrl + /
+Fazer import automatico -> Alt + Enter
+Deletar import não utilizado -> Ctrl + O
 Para deletar: CTRL+Y
 
 
-## Mais atalhos e Versionamento
+## Mais atalhos
 Refatoramento de classe: selecione a classe -> SHIFT + F6
 identação: CTRL + ALT + L
 Deixar aberto somente o editor de texto (fechando terminal por exemplo): SHIFT + F12
 Duplicar a linha: CTRL + D
 Para mudar a linha inteira de lugar: CTRL + SHIFT + seta
+
+## Versionamento
 Versionamento: New repository (GitHub) -> VCS (IntelliJ) -> Enable Version Control Integration -> selecionar controle de versão git -> VCS -> Commit (ou CTRL+K) -> selecionar arquivos -> Mensagem do commit -> commit and push -> nome: origin e url:copiar do repositorio do gitHub -> push tag (all) -> push -> log in via gitHub -> autorização -> integração -> acessar gitHub
+
 
 ## Debug
 Para tonar o item em uma variável: CTRL + ALT + V
